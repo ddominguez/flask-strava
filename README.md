@@ -16,6 +16,7 @@ It was made to be used with the front-end client(FRONTEND_APP_DOMAIN) located [h
 ```GET /strava_token```
 
 **Params**
+
 Name | Description
 ---- | -------------
 code | The code parameter obtained in the strava authorization redirect.
